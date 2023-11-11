@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node perfTest.ts"
+  },
   "dependencies": {
     "@types/luxon": "^3.3.4",
     "@types/node": "^20.8.7",
