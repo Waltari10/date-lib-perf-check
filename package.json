@@ -1,0 +1,17 @@
+{
+  "name": "perfTest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/luxon": "^3.3.4",
+    "@types/node": "^20.8.7",
+    "date-fns": "^2.30.0",
+    "luxon": "^3.4.3",
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.43",
+    "ts-node": "^10.9.1",
+    "tslib": "^2.6.2",
+    "typescript": "^5.2.2"
+  }
+}
